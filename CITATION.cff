@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: Machine-learning prediction of refeeding syndrome in critically ill patients
+message: >-
+  If you use this code, please cite the archived release (see the DOI on Zenodo)
+  in addition to the corresponding article.
+type: software
+authors:
+  - family-names: Hou
+    given-names: Weiwei
+  - family-names: Yan
+    given-names: Ci
+  - family-names: Zhang
+    given-names: Qin
+  - family-names: Yao
+    given-names: Rong
+  - family-names: Du
+    given-names: Yu
+  - family-names: He
+    given-names: Jia
+  - family-names: Liu
+    given-names: Yun
+  - family-names: Guo
+    given-names: Jidong
+  - family-names: He
+    given-names: Xiongwei
+version: 1.0.0
+date-released: "2026-01-01"
+license: MIT
+repository-code: "https://github.com/<USER>/rfs-ml-prediction"
+keywords:
+  - refeeding syndrome
+  - machine learning
+  - clinical prediction model
+  - intensive care
+  - TRIPOD+AI
